@@ -13,6 +13,6 @@ public class Controller {
 
     @GetMapping("/goodbye")
     public String goodbye(){
-        return "!! Thank You !! ";
+        return "!! good bye!! ";
     }
 }
